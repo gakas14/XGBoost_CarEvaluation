@@ -10,7 +10,7 @@ Actions to Perform:
 3. Train multiple classifiers and compare the accuracy.
   - LinearRegression.
   - KNN.
-  -
   -RandomForest.
- .-XGBoost.
+  -XGBoost.
+  
 4. Evaluate the XGBoost model with K-fold cross-validation.
