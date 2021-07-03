@@ -9,6 +9,7 @@ Actions to Perform:
 2. Plot the most important features.
 3. Train multiple classifiers and compare the accuracy.
   - LinearRegression.
+  - 
   -KNN.
   -RandomForest.
  .-XGBoost.
