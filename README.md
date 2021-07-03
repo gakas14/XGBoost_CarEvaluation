@@ -8,8 +8,8 @@ Actions to Perform:
 1. Predict the condition of a vehicle based on its features.
 2. Plot the most important features.
 3. Train multiple classifiers and compare the accuracy.
- - LinearRegression
- -KNN
- -RandomForest
- -XGBoost
+  - LinearRegression.
+  -KNN.
+  -RandomForest.
+ .-XGBoost.
 4. Evaluate the XGBoost model with K-fold cross-validation.
